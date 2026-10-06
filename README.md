@@ -2,6 +2,10 @@
 
 An Artificial Neural Network (ANN) built with TensorFlow/Keras to predict whether a bank customer will churn (close their account). Deployed as an interactive web app with Streamlit.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churn-modelling-awwxcpbx3zedchj6k8dmuc.streamlit.app/)
+
+🔗 **Live Demo:** [https://churn-modelling-awwxcpbx3zedchj6k8dmuc.streamlit.app/](https://churn-modelling-awwxcpbx3zedchj6k8dmuc.streamlit.app/)
+
 ---
 
 ## Quickstart
