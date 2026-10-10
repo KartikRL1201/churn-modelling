@@ -15,3 +15,6 @@ __pycache__/
 # Logs and runtime data
 logs/
 *.log
+
+# Editor settings
+.vscode/
